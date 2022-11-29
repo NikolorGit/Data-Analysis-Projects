@@ -5,7 +5,7 @@ from openpyxl.styles import Font
 from openpyxl import load_workbook
 
 # Importing original table:
-df = pd.read_excel('test.xls')
+df = pd.read_excel('dataset.xls')
 df = df.drop('good (1)', axis=1)
 
 # Removing duplicates in each area:
