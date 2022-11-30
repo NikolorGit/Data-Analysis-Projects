@@ -20,3 +20,9 @@ This is a test exercise from HSE University. It required:
 - visualizing different clusters on a scatter plot
 
 The project required using Python (Pandas for the analysis and Matplotlib for the visualization).
+
+## Analyzing importance of computers from 1987 to 1997
+This project was done in Google Sheets. It is a task from the Codecademy course where you need to work with GDP of different categories from 1987 to 1997. The task was:
+- to sort and filter the data in order to find the largest and the smallest categories by GDP for each year
+- to find percentage of of each category relatively to the total GDP
+- to create unique category for computers and to create a pivot table in order to check the importance of computers over the years and their influence on the total GDP
