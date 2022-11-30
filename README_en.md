@@ -2,7 +2,7 @@
 This is a repository containing some of the projects I've done to practice my data analysis skills.
 ## Built with
 - SQL (SQLite)
-- Excel
+- Excel / Google Sheets
 - Python (Pandas, Matplotlib)
 # Projects
 ## Analysis of Titanic passengers
