@@ -26,3 +26,6 @@ This project was done in Google Sheets. It is a task from the Codecademy course 
 - to sort and filter the data in order to find the largest and the smallest categories by GDP for each year
 - to find percentage of of each category relatively to the total GDP
 - to create unique category for computers and to create a pivot table in order to check the importance of computers over the years and their influence on the total GDP
+
+## Hotel data visualization
+This project was done in Microsoft Excel. It is a task from the Codecademy course where you need to find and visualize patterns in raw data about hotel reservations. The data is divided by different categories to make a right conclusion.
